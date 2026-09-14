@@ -8,7 +8,7 @@
 }
 
 
-/* GERAL */
+
 
 html {
     scroll-behavior: smooth;
@@ -25,7 +25,7 @@ section {
 }
 
 
-/* MENU */
+
 
 .navbar {
     background: rgba(43, 43, 46, 0.98);
@@ -50,7 +50,7 @@ section {
 }
 
 
-/* BOTÃO */
+
 
 .btn-dourado {
     background: var(--dourado);
@@ -66,7 +66,7 @@ section {
 }
 
 
-/* HERO */
+
 
 .hero {
     min-height: 100vh;
@@ -108,7 +108,7 @@ section {
 }
 
 
-/* TÍTULOS */
+
 
 .titulo-pequeno {
     color: #777;
@@ -133,7 +133,7 @@ section {
 }
 
 
-/* CAROUSEL */
+
 
 .carousel-item {
     min-height: 350px;
@@ -189,7 +189,7 @@ section {
 }
 
 
-/* SEÇÕES */
+
 
 .secao {
     padding: 90px 0;
@@ -201,7 +201,7 @@ section {
 }
 
 
-/* CARDS */
+
 
 .card-servico {
     height: 100%;
@@ -262,7 +262,7 @@ section {
 }
 
 
-/* ACCORDION */
+
 
 .accordion-item {
     background: #343438;
@@ -286,7 +286,7 @@ section {
 }
 
 
-/* DEPOIMENTOS */
+
 
 .depoimento {
     height: 100%;
@@ -358,7 +358,7 @@ section {
 }
 
 
-/* MAPA */
+
 
 .mapa {
     width: 100%;
@@ -385,7 +385,7 @@ footer h3 span {
 }
 
 
-/* RESPONSIVIDADE */
+
 
 @media (max-width: 768px) {
 
